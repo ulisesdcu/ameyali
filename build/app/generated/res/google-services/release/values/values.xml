@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">650001200852-dl0mdo9v68qvai3lbshrmp0nugd01f98.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">650001200852</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJOHlivOeYc148AraFuCee8YNuiFCZvmA</string>
+    <string name="google_app_id" translatable="false">1:650001200852:android:f30c759b248943400a6d41</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJOHlivOeYc148AraFuCee8YNuiFCZvmA</string>
+    <string name="google_storage_bucket" translatable="false">votaciones-659a9.appspot.com</string>
+    <string name="project_id" translatable="false">votaciones-659a9</string>
+</resources>
